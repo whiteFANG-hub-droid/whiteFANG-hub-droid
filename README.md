@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey there! I'm Rohit 👋</h1>
 
-<!--
-**whiteFANG-hub-droid/whiteFANG-hub-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Front-End Developer | 🚀 Learning Everyday | 🌐 Passionate Coder
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently Working On:
+- 👨‍💻 Front-End Internship @ Cognifyz Technologies
+- 🌟 Amazon Clone using HTML + CSS + JS
+- 📈 Leveling up my skills in Responsive Design, API integration & form validation
+
+---
+
+### ⚙️ Tech Stack
+- 🖌️ HTML, CSS, JavaScript
+- ⚡ Bootstrap, Media Queries
+- 📂 Git & GitHub
+
+---
+
+### 📫 Let’s Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) <!-- Replace with your LinkedIn -->
+- 💻 [GitHub](https://github.com/whiteFANG-hub-droid)
+
+---
+
+> “Eat code. Sleep debug. Repeat.” 💥
+
